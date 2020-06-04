@@ -1,2 +1,2 @@
-# shell-script
- Scripts Shell
+# Scripts Shell
+ Scripts Shell para iniciantes
